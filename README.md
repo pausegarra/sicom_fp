@@ -8,3 +8,5 @@ Se ha hecho utilizando laravel y laravel livewire
     - Creación de pedidos
     - Creación de clientes potenciales
     - Creación de clientes.
+# Autor
+Pau Segarra Blasco
