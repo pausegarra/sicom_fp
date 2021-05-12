@@ -1,0 +1,1 @@
+&nomdes="Pepe Muñoz"&dirdes="C/ AV Catalunya, n22B, 1-2"&pobdes="Tarragona"&cpdes="08080"&tlfdes="977000000"&bultos=4&peso=2.65&fecha=20/12/29&ref="LV999888777"&contacto="Manolo Fernandez"&reembolso=-1.45
