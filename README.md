@@ -1,5 +1,6 @@
 # SICOM
 _Aplicación para la gestión de pedidos y clientes_
+_Es un proyecto hecho a taves del programa [InnovaFP](http://www.innovafp.cat/dgfpiere/es/), para la empresa [TQ TECNOL S.A.U.](https://tecnol.es/), y siendo estudiante del instituto [INS Vidal i Barraquer](https://www.vidalibarraquer.net/) (CFGS Desarrollo de aplicaciones web)_
 
 ## Construido con 🛠️
 
@@ -8,13 +9,10 @@ _Aplicación para la gestión de pedidos y clientes_
 
 # Funcionalidades
 
-    - Creación de pedidos
-    - Creación de clientes potenciales
-    - Creación de clientes.
-
-## Autor ✒️
-
-* [Pau Segarra](https://github.com/pausegarra)
+    * Creación de pedidos
+    * Creación de clientes potenciales
+    * Creación de clientes.
+    * Login de usuarios a través de LDAP.
 
 ## Licencia 📄
 
