@@ -1,7 +1,7 @@
 # SICOM
 _Aplicación para la gestión de pedidos y clientes_
 
-_Es un proyecto hecho a taves del programa [InnovaFP](http://www.innovafp.cat/dgfpiere/es/), para la empresa [TQ TECNOL S.A.U.](https://tecnol.es/), y siendo estudiante del instituto [INS Vidal i Barraquer](https://www.vidalibarraquer.net/) (CFGS Desarrollo de aplicaciones web)_
+_Es un proyecto hecho para el trabajo final de ciclo del instituto [INS Vidal i Barraquer](https://www.vidalibarraquer.net/) (CFGS Desarrollo de aplicaciones web), a taves del programa [InnovaFP](http://www.innovafp.cat/dgfpiere/es/) y para la empresa [TQ TECNOL S.A.U.](https://tecnol.es/).
 
 ## Construido con 🛠️
 
