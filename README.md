@@ -1,12 +1,21 @@
 # SICOM
-Aplicación para la gestión de pedidos y clientes, hecha para la empresa TQ TECNOL, a través del proyecto innovafp en el instituto vidal i barraquer.
+_Aplicación para la gestión de pedidos y clientes_
 
-# Tecnologías
-Se ha hecho utilizando laravel y laravel livewire
+## Construido con 🛠️
+
+* [Laravel](https://www.laravel.com/)
+* [Livewire](https://laravel-livewire.com/)
 
 # Funcionalidades
+
     - Creación de pedidos
     - Creación de clientes potenciales
     - Creación de clientes.
-# Autor
-Pau Segarra Blasco
+
+## Autor ✒️
+
+* [Pau Segarra](https://github.com/pausegarra)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
